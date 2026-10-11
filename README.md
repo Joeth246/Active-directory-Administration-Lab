@@ -1,4 +1,4 @@
-Active Directory Home Lab – Windows Server 2022
+Active Directory Home Lab Windows Server 2022
 Project Overview
 
 This project demonstrates the setup and configuration of an Active Directory environment using Windows Server 2022 in a virtual machine. The goal was to gain hands-on experience with Windows Server administration, domain management, user account provisioning, Group Policy, and basic IT support tasks.
